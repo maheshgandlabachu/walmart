@@ -1,0 +1,46 @@
+.icon{
+    color: red;
+    font-size: 40px;
+}
+#title{
+    color: blue;
+}
+/* .container{
+    color:grey;
+} */
+
+body{
+    background-color:rgba(128,128,128,0.4)
+}
+.container{
+    color: rgb(0,0,255);
+}
+
+#special{
+    background-color: #000;
+}
+
+/* 
+
+rgb
+rgba - red gree blue alpha
+
+
+
+255,0,0 -- red
+0,255,0 -- blue
+0,0,255 -- green
+
+0,0,0,1 -- black
+255,0,0,0.75 -- color transpenrcy  (red, in this case)
+*/
+
+/* Hex Values #RRGGBB
+1 2 3 4 5 6 7 8 9 A-10 B-11 C-12 D-13 E-14 F-15
+
+#ff0000 -red
+#00ff00 - green
+#000 black
+
+coolers.co  -- colors numbers
+*/

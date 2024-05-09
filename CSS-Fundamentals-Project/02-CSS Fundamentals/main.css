@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(128,128,128,0.4);
+}
+
+.container{
+    background: rgba(255,255,255,0.2);
+}
+
+.heading{
+    color:rgb(0,0,255,0.8)
+}
+
+#special{
+    background: rgba(0,0,0,0.9);
+}
+
+.text{
+    color:rgb(100, 96, 96, 1);
+}

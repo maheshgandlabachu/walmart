@@ -1,0 +1,19 @@
+/* Working on colors */
+
+.heading{
+    color: rgb(0,0,255);
+    background-color: rgba(205, 7, 7, 0.5);
+}
+
+.blue , .red {
+    color: #c2f;
+    background:  rgba(7, 157, 0, 0.2);
+}
+
+.combine{
+    background-color: black;
+}
+
+.font{
+    color:red;
+}
